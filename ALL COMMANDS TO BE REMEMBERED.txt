@@ -1,0 +1,63 @@
+ALL COMMANDS TO BE REMEMBERED:
+
+ sudo su 
+	{To give permissions and let a user to work as a root user. always used to enter into root}
+
+ctrl+D (or) exit
+	{To exit from a runnig process or root or any other platform}
+	
+mkdir folder
+	{Creates a new folder}
+
+mkdir folder1 folder2 folder3 foldern
+	{Creates multiple new folders}
+
+mkdir -p folder1 folder2 folder3 foldern
+	{Creates folders in the folders}
+
+cd
+	{Get back to home folder from any folder} 
+
+cd ..
+	{Get to the mother folder of the folder and continues}
+
+cd folder (or) cd folder/
+	{Opens the folder so that the user can access it}
+
+ls
+	{Shows the folders or files present in the particular open folder}
+
+ls -a
+	{It shows hidden folders like .folders }
+
+pwd  
+	{It shows the absolute path of the folder which is open}
+	{Relative path is always showen on the side in blue color}
+
+touch file.txt
+	{Creates a new file}
+
+touch file1.txt file2.txt file3.txt filen.txt
+	{Creates multiple new files}
+
+rm -rf folder (or) rm -rf file.txt
+	{Delete one folder or a file}
+
+rm -rf folder1 folder2 folder3 foldern (or) rm -rf file1.txt file2.txt file3.txt filen.txt
+	{Deletes multiple folders or files}
+
+rm -rf *
+	{Deletes all folder and files in present location}
+
+clear (or) ctrl+L
+	{Clears the screen}
+
+mv oldname/  newname/
+	{Renames a file or a folder}
+
+mv folder1/ folder2/
+	{Replace a folder into another folder}
+
+mv location/location1/location2/folder/ /location/location2/location3/folder
+	{Replace a folder from another location to desired location}
+
